@@ -1,6 +1,5 @@
 aiohttp==3.8.4
 aiosignal ==1.2.0
-async-timeout==-4.0.1
 attrs==22.1.0
 CacheControl==0.12.11
 cachy==0.3.0
