@@ -1,6 +1,5 @@
 import discord
 from discord.ext import tasks, commands
-from discord.commands.context import ApplicationContext
 from discord.commands import Option
 import os
 from replit import db
